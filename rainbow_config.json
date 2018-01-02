@@ -1,7 +1,7 @@
 {
     "HEARTBEAT_TIMEOUT": 120,
     "IMAGE_ON_TERM": false,
-    "THEME": "solarized",
+    "THEME": "monokai",
     "ASCII_ART": true,
     "HIDE_PROMPT": true,
     "PREFIX": "#owner#place#me#keyword",
